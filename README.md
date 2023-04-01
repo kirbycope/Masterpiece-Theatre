@@ -1,7 +1,7 @@
 ![Masterpiece-Theatre](/Masterpiece-Theatre.png)
 
 # Masterpiece-Theatre
-My submission for the Minecraft April Fools Jam on PlanetMinecraft.com
+My submission for the [April Fools Jam](https://www.planetminecraft.com/jam/april-fools/) on PlanetMinecraft.com.
 
 ## Installation
 1. Download the [zip file](https://github.com/kirbycope/Masterpiece-Theatre/raw/main/Masterpiece-Theatre.zip)
